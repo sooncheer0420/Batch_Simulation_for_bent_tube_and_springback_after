@@ -11,9 +11,3 @@
 #### By Sun Chang and Zhou taotao
 #### Zhejiang University
 #### For any further program and question, contact sun_chang@zju.edu.cn
-
-
-$ git commit -m "Refactor usability tests.
->
->
-Co-authored-by: chousabc <1290701953@qq.com>
