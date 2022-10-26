@@ -8,6 +8,6 @@
 
 #### This program is an example for batch extraction, and the example of process file are given
 
-#### By Sun Chang and Zhou taotao
+#### By Zhou taotao and Sun Chang
 #### Zhejiang University
 #### For any further program and question, contact sun_chang@zju.edu.cn
